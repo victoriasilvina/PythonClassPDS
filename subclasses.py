@@ -1,4 +1,4 @@
-from filmes import Filmes
+from Filmes import Filmes
 
 class Magico(Filmes):
     def __init__(self, titulo, ano, autor):
